@@ -1,0 +1,65 @@
+body{
+    height: 118vh;
+    margin: none;
+    width: 100%;
+}
+header{
+    height: 8%;
+     background-color: rgb(36, 42, 54);
+    width: 100%;
+    position:static;
+ }
+ .logo{
+    float: left;
+   padding: 10px 10px 10px 10px;
+  
+    width:  20%;
+}
+a{
+    text-decoration: none;
+}
+h6{
+    text-align: center;
+    
+}
+.menue{
+     padding: 15px 15px 15px 15px;
+    display: flex;
+    width: 80%;
+    justify-content: space-between;
+    color: beige;
+}
+.buton{
+    float: right;
+     margin: none;
+    display: flex;
+    width: 15%;
+    
+}
+#formuler{
+    background-color: rgb(220, 221, 223);
+}
+
+#forum1{
+    float: left;
+    display:flex;
+   
+}
+#forum2{
+ float: right;
+ display: flex;
+ 
+}
+footer{
+    height: 28%;
+    width: 100%;
+    background-color:rgb(36, 42, 54) ;
+}
+.logos{
+    display: block;
+    float: right;
+     margin-right: 190px ;
+     margin-top: 70px;
+   
+     width:  130px;
+}

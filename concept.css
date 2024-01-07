@@ -1,0 +1,56 @@
+body{
+    height: 428vh;
+    margin: none;
+    width: 100%;
+}
+header{
+   height: 15%;
+    background-color: rgb(36, 42, 54);
+   width: 100%;
+   position:fixed;
+}
+a{
+    text-decoration: none;
+}
+.logo{
+    float: left;
+   padding: 10px 10px 10px 10px;
+  
+    width:  20%;
+}
+h6{
+    text-align: center;
+    
+}
+.menue{
+     padding: 15px 15px 15px 15px;
+    display: flex;
+    width: 80%;
+    justify-content: space-between;
+    color: beige;
+}
+.buton{
+    float: right;
+     margin: none;
+    display: flex;
+    width: 15%;
+    
+}
+footer{
+    height: 25%;
+    width: 100%;
+    background-color:rgb(36, 42, 54) ;
+    display: block;
+}
+.ul1{
+    height: 320px;
+    width: 80px;
+}
+.logos{
+    display: block;
+    float: right;
+     margin-right: 190px ;
+     margin-top: 70px;
+   
+     width:  130px;
+}
